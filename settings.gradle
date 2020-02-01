@@ -1,0 +1,5 @@
+rootProject.name = 'Payman'
+include 'gateway-service'
+include 'account-service'
+include 'order-service'
+
